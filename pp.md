@@ -48,7 +48,7 @@ All user data collected by the Google Mobile Ads SDK is encrypted in transit usi
 
 If we use any optional product features that involve additional data (such as advanced reporting) or participate in any tests of new product features that involve additional data, we will ensure that these features or tests are disclosed accordingly.
 
-For more information on how Google AdMob collects, uses, and shares data, please review the [Google AdMob Privacy Policy](https://policies.google.com/privacy).
+For more information on how Google AdMob collects, uses, and shares data, please review the Google AdMob Privacy Policy.
 
 **9. Contact Information**
 
