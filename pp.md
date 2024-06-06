@@ -1,7 +1,7 @@
 
 **Privacy Policy**
 
-**Last updated: [Date]**
+**Last updated: 06-06-2024**
 
 **Tasbeeh Helper** ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by **Tasbeeh Helper**.
 
